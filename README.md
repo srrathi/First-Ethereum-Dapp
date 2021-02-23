@@ -1,5 +1,5 @@
 ## First Dapp made using Ethereum
- - Smart contract is deployed on Kovan Network using injected Web# on remix online IDE.
+ - Smart contract is deployed on Kovan Network using injected Web3 on remix online IDE.
  - During Development used Truffle for connecting my Smart Contract with my React App.
  - Used Ganache to setup and deploy the Blockchain Network locally on my machine.
  - Later on used Kovan for deploying the smart contract on web which give 1 ETH every 24 hours on adding your account address.

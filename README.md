@@ -9,3 +9,6 @@
  - Website is hosted on Netlify [click here](https://election-dapp-srrathi.netlify.app/)
 #### The site will only run on browsers on which metamask extension and account is setup.
 ### Some Screenshots
+![screenshot 1](https://raw.githubusercontent.com/srrathi/First-Ethereum-Dapp/main/images/b1.png)
+![screenshot 2](https://raw.githubusercontent.com/srrathi/First-Ethereum-Dapp/main/images/b2.png)
+![screenshot 3](https://raw.githubusercontent.com/srrathi/First-Ethereum-Dapp/main/images/b3.png)

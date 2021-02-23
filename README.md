@@ -7,4 +7,5 @@
  - Used npm Web3 package to communicate between metamask and application.
  - The whole web App is made using Bootstrap and React.
  - Website is hosted on Netlify [click here](https://election-dapp-srrathi.netlify.app/)
-### The site will only run on browsers on which metamask extension and account is setup.
+#### The site will only run on browsers on which metamask extension and account is setup.
+### Some Screenshots
